@@ -11,10 +11,12 @@ This Node.js application generates a QR code image from a user-provided URL and 
 Navigate to the project directory:
 
 ### bash
+ ```bash
 cd qr-code-generator-nodejs
 Install dependencies:
 
 ### bash
+ ```bash
 npm install
 
 
@@ -22,6 +24,7 @@ npm install
 Run the application:
 
 ### bash
+ ```bash
 node index.js
 
 ### Follow the prompts:
